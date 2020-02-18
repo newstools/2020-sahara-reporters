@@ -1,0 +1,13 @@
+ Employees of a Nigerian beverage manufacturer, Chivita, on Tuesday morning at Ajao Estate, Lagos, protested the new leave policy initiated by the organisation. Staff of the company refused to resume work as usual when they arrived at the firm’s premises, instead demanding that management of the organisation reverts to the old leave policy. The management of Chivita had in an e-mail sent to members of staff on Tuesday announced that employees would no longer enjoy one month paid leave. The new policy, which was prepared and recommended by the company’s Human Resource Manager, Uzoamaka Bifom, was approved by the company’s Managing Director, Deepanjan Roy, on January 1, 2020. The policy covers annual leave, maternity leave, examination leave, causal leave, compassionate leave and paternity leave. Under the new arrangement, members of staff on Band 3 and above would enjoy a paid leave of 25 workings days while members of staff on Band 1 and 2 would enjoy a paid leave of 14 working days. (function(){
+
+		var scribd_doc = scribd.Document.getDocFromUrl('http://saharareporters.com/sites/default/files/LEAVE%20POLICY.pdf.pdf', 'pub-38756116719609018964');
+
+		var onDocReady = function(e){};
+
+		scribd_doc.addParam('jsapi_version', 2);
+                scribd_doc.addParam('public', true);
+                scribd_doc.addParam('allow_share', true);
+		scribd_doc.addEventListener('docReady', onDocReady);
+		scribd_doc.write('embedded_doc_85049');
+
+	})();
